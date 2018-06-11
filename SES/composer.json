@@ -1,0 +1,5 @@
+{
+    "require": {
+        "daniel-zahariev/php-aws-ses": "^0.9.1"
+    }
+}
